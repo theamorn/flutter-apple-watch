@@ -1,19 +1,25 @@
-# watchapp
+<div align="center">
+<h3 align="center">Flutter connecting to Apple Watch sample project</h3>
+</div>
 
-A new Flutter project.
+## About The Project
+
+This project is a sample project that adds a connection between the Apple Watch and Flutter via the Flutter Method channel. All necessary classes and functions are already prepared to be used.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this project and use this article for reference [Medium](https://medium.com/kbtg-life/adding-apple-watch-to-flutter-app-via-flutter-method-channel-f1443532d94e)
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+VDO from sample code
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# fluttter-apple-watch
+[![VDO from sample code](https://img.youtube.com/vi/MOUuxBBlQ3s/0.jpg)](https://www.youtube.com/watch?v=MOUuxBBlQ3s)
 
-This project is a demo to show that Flutter can connect Native API, even Apple Watch without any problem
+Real-world use case that I apply in my current project
+
+[![Real world use case](https://img.youtube.com/vi/qrOaNJgJVmo/0.jpg)](https://www.youtube.com/watch?v=qrOaNJgJVmo)
+
+## Contact
+
+Amorn Apichattanakul - [@EinzelnSync](https://twitter.com/EinzelnSync) - benamorn@gmail.com - [LinkedIn](https://www.linkedin.com/in/amorna/)
